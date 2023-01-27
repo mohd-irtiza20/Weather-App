@@ -9,7 +9,7 @@ The user interface of the app is designed using HTML and CSS, providing a clean 
 
 Preview of the Project
 
-https://Weather-App.mohdirtiza.repl.co
+https://mi-weatherapp.netlify.app
 
 
 ## FAQ
